@@ -1,0 +1,4 @@
+Convert the Project to TestNG
+
+ Right click on the Project, Select TestNG  Convert to TestNG
+ Execute the Tests as a group using testng.xml
